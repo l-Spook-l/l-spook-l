@@ -3,7 +3,8 @@
 ## 📫 Contact
 
 - Email: uaspookua@gmail.com
-- LinkedIn: [Ваш LinkedIn профиль](ссылка_на_LinkedIn)
+
+[comment]: <> (- LinkedIn: [Ваш LinkedIn профиль]&#40;ссылка_на_LinkedIn&#41;)
 
 </br>
 
