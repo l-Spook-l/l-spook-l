@@ -44,9 +44,9 @@
 
 **Learning**
 
-![Rsut](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust)
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
+![Opencv](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv)
+![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas)
+![Tensorflow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow)
 
 
 <a href="https://github.com/l-Spook-l" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-Spook-l&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
