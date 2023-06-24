@@ -3,6 +3,7 @@
 ## 📫 Contact
 
 - Email: uaspookua@gmail.com
+- Linkedin: https://www.linkedin.com/in/serhii-mykhailovskyi-729a09280/
 
 [comment]: <> (- LinkedIn: [Ваш LinkedIn профиль]&#40;ссылка_на_LinkedIn&#41;)
 
