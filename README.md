@@ -44,6 +44,7 @@
 
 **Learning**
 
+![aiogram](https://img.shields.io/badge/-aiogram-4A8EDB?style=flat-square&logo=Telegram)
 ![Opencv](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv)
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas)
 ![Tensorflow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow)
