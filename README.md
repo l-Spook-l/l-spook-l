@@ -34,6 +34,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
+**Bots** 
+
+![aiogram](https://img.shields.io/badge/-aiogram-4A8EDB?style=flat-square&logo=Telegram)
+
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
@@ -45,10 +49,11 @@
 
 **Learning**
 
-![aiogram](https://img.shields.io/badge/-aiogram-4A8EDB?style=flat-square&logo=Telegram)
 ![Opencv](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv)
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas)
 ![Tensorflow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow)
+![Flet](https://img.shields.io/badge/-Flet-%2300A9E0?style=flat-square&logo=flet)
+
 
 
 
